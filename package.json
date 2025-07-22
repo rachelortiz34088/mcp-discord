@@ -1,6 +1,6 @@
 {
   "name": "mcp-discord",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Implement Discord MCP server enabling AI assistants to interact with the Discord platform.",
   "main": "src/index.ts",
   "scripts": {
